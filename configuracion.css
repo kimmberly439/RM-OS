@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Serif', serif;
+font-family: 'Vollkorn', serif;
+font-family: 'Yantramanav', sans-serif;
+}
+
+:root {
+    /* COLORES */
+    --colorTextoClaro: rgba(60, 60, 67, 0.6);
+    --colorBlack: #000000;
+    --colorBackground: #F2F2F7;
+    --colorBlue: #007AFF;
+
+    --size17: 17px;
+    --seze15: 15px;
+}
